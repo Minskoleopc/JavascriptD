@@ -1,0 +1,30 @@
+// Step 1: 
+//https://nodejs.org/en/download
+download and install 
+
+// Step 2:
+https://code.visualstudio.com/download
+// download and install 
+
+Step3 : open Vs code  >> File >> 
+Open Folder >> Desktop >> New Folder >> Javascript >> Select folder
+
+Step 4: click to add File >> script.js
+
+Step 5 : write code  - 
+
+console.log("hello")
+
+Step 6 : open the terminal
+
+node script.js
+
+
+
+
+
+
+
+
+
+
