@@ -54,6 +54,19 @@ console.log(6 <= 5 )
 console.log(7 >= 7)
 console.log(8 <= 8)
 
+console.log(typeof '10') // string
+console.log(typeof 10) // number
+
+// == , !=   - value 
+// === , !== -- value and type
+
+// console.log(6 == '6') // true
+// console.log(6 === '6') // false
+// console.log(6 !== '6') // true
+// console.log(6 === 6) //  true
+
+
+
 
 // Logical operator 
 
