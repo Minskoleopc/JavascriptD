@@ -65,6 +65,17 @@ for(let i = 5 ; i >=1 ; i-- ){ // 4 // 3 // 2
 
 // continue
 
+for(let i = 1 ; i <= 5 ; i++){ 
+
+    if(i == 3){
+        continue;
+    }
+    console.log(i) 
+
+}
+
+
+
 
 
 
