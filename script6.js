@@ -99,9 +99,7 @@ let q1 = age >= 18 ? "can drive":"cannot drive"
 console.log(q1)
 
 // program 9
-
 let city = "indore"
-
 switch(city){
     case 'pune':
         console.log('MH')

@@ -52,7 +52,6 @@ while(t6 <= 5){
 }
 
 // program 8
-
 let t7 = 5
 while(t7 >= 1){
     console.log(t7) // 5 // 4 // 3
@@ -64,7 +63,6 @@ while(t7 >= 1){
 
 
 // program 3 (while with continue)
-
 let t8 = 1
 while(t8 <= 5){
     if(t8 == 3){
