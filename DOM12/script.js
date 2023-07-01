@@ -22,8 +22,6 @@
 // })
 
 
-
-
 // program 3(index3.html)
 
 // let buttonA = document.querySelector('button')
